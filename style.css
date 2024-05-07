@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+#mainWrapper{
+  /* background-color: rgb(255, 235, 205); */
+  position: relative; 
+  z-index: 1;
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+  
+}
+
+
+h1{
+  text-align: center;
+}
+.intro{
+  text-align: center;
+}
+/* #canvasContainer canvas{
+  border: solid 6px dimgray;
+} */
